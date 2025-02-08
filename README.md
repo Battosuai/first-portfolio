@@ -1,4 +1,4 @@
 # portfolio-starter
 
-35:38
-Transition finished
+1:05:12
+Home finished
