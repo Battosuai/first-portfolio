@@ -1,4 +1,4 @@
 # portfolio-starter
 
-1:05:12
-Home finished
+1:45:20
+About finished
